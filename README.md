@@ -65,7 +65,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Ilgam-qa/Ilgam-qa/refs/heads/main/certificateM.png)
+[<img src="/certificateMR.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Ilgam-qa/Ilgam-qa/refs/heads/main/certificateM.png)
 
 <br>
 <br>
