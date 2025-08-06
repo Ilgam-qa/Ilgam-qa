@@ -1,6 +1,8 @@
 ## Привет！ 👋
 Меня зовут Ильгам, я QA Engineer
 
+Tg @ne_ilgam
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Ilgam-qa)
